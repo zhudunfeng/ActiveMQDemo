@@ -6,7 +6,7 @@ import org.apache.activemq.ActiveMQConnectionFactory;
 import javax.jms.*;
 
 public class ActiveMQProducer {
-    public static final String MQ_URL = "tcp://192.168.136.129:61616";
+    public static final String MQ_URL = "tcp://192.168.145.129:61616";
     public static final String QUEUE_NAME="queue0805";
     public static void main(String[] args) throws JMSException {
         //1 获得ActiveMQConnectionFactory

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df0a9458-67f9-4dc9-9c61-91b628ddb809" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ActiveMQDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/consumer/ActiveMQConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/consumer/ActiveMQConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/consumer/ActiveMQConsumer_Topic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/consumer/ActiveMQConsumer_Topic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/producer/ActiveMQProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/producer/ActiveMQProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/producer/ActiveMQProducer_Topic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/producer/ActiveMQProducer_Topic.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/consumer/ActiveMQConsumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-175">
+              <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/producer/ActiveMQProducer_Topic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/consumer/ActiveMQConsumer_Topic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1160">
+              <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/producer/ActiveMQProducer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-485">
+              <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/consumer/ActiveMQConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/producer/ActiveMQProducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/producer/ActiveMQProducer_Topic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/consumer/ActiveMQConsumer_Topic.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository" />
+        <option name="mavenHome" value="D:/devtools/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="D:\devtools\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="610" />
+    <option name="y" value="45" />
+    <option name="width" value="700" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ActiveMQDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ActiveMQDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ActiveMQDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ActiveMQDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ActiveMQDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ActiveMQDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ActiveMQDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ActiveMQDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ActiveMQDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ActiveMQDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ActiveMQDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ActiveMQDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ActiveMQDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ActiveMQDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="producer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ActiveMQProducer_Topic">
+    <configuration name="ActiveMQConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.consumer.ActiveMQConsumer" />
+      <module name="ActiveMQDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActiveMQConsumer_Topic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.consumer.ActiveMQConsumer_Topic" />
+      <module name="ActiveMQDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActiveMQProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.producer.ActiveMQProducer" />
+      <module name="ActiveMQDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActiveMQProducer_Topic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.producer.ActiveMQProducer_Topic" />
+      <module name="ActiveMQDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ActiveMQProducer_Topic" />
+        <item itemvalue="Application.ActiveMQConsumer_Topic" />
+        <item itemvalue="Application.ActiveMQConsumer" />
+        <item itemvalue="Application.ActiveMQProducer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df0a9458-67f9-4dc9-9c61-91b628ddb809" name="Default Changelist" comment="" />
+      <created>1592557625430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592557625430</updated>
+      <workItem from="1592557626729" duration="1453000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1453000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4957265" visible="true" weight="0.28351206" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Structure" order="7" sideWeight="0.50427353" side_tool="true" weight="0.38806972" />
+      <window_info anchor="bottom" id="JProfiler" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32658958" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32658958" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32803467" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32947975" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32658958" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.3236994" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/consumer/ActiveMQConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-175">
+          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/consumer/ActiveMQConsumer_Topic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1160">
+          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/producer/ActiveMQProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-485">
+          <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/producer/ActiveMQProducer_Topic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
